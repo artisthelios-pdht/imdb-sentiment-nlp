@@ -1,0 +1,4 @@
+﻿.ipynb_checkpoints/
+__pycache__/
+*.pyc
+IMDB Dataset.csv
